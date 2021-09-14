@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,300&display=swap');
+
+.box{
+    border: 2px solid red;
+    position: absolute;
+width: 1440px;
+height: 407px;
+background: #C5010A;
+font-family: 'Mulish', sans-serif;
+}
+.text_h1{
+    font-family: 'Mulish', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 130%;
+letter-spacing: 0.008em;
+color: #FFFFFF;
+margin-left: 70px;
+margin-top: 100px;
+}
+.text_h2{
+    font-family: 'Mulish', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 130%;
+letter-spacing: 0.008em;
+color: #FFFFFF;
+margin-left: 70px;
+margin-top: 170px;
+}
+.text_h3{
+    width: 74px;
+    height: 162px;
+font-family: 'Mulish', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 130%;
+letter-spacing: 0.008em;
+color: #FFFFFF;
+margin-left: 420px;
+margin-top: -270px;
+}
+.text_a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.text_h4{ position: absolute;
+    font-family: 'Mulish' , sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 120%;
+letter-spacing: 0.005em;
+color: #FFFFFF;
+margin-left: 420px;
+margin-top: -320px;
+}
+.a_text_two{
+    color: #000000;
+    text-decoration: none;
+}
+.text_h3_two{
+    font-family: 'Mulish' , sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 130%;
+letter-spacing: 0.008em;
+color: #FFFFFF;
+margin-left: 720px;
+margin-top: -175px;
+}
+.text_h4_two{
+    position: absolute;
+    font-family: 'Mulish' , sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 120%;
+letter-spacing: 0.005em;
+color: #FFFFFF;
+margin-left: 720px;
+margin-top: -225px;
+}
+.img_box{
+    display: flex;
+    justify-content: space-between;
+    width: 90px;
+    margin-left: 970px;
+}
+.img_one{
+    position: absolute;
+    margin-top: -200px;
+}
+.img_two{
+    position: absolute;
+    margin-top: -100px;
+}
+.img_text_n{
+    position: absolute;
+    margin-left: 1010px;
+    font-family: 'Mulish' , sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 130%;
+letter-spacing: 0.008em;
+color: #FFFFFF;
+margin-top: -200px;
+}
+.img_text_e{
+    position: absolute;
+    margin-left: 1010px;
+    font-family: 'Mulish' , sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 130%;
+letter-spacing: 0.008em;
+color: #FFFFFF;
+margin-top: -100px;
+}
